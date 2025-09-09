@@ -2,13 +2,19 @@
 ![img.png](img.png)
 Updated .....
 ## Baseline Methods
-- Co-GCN for Multi-View Semi-Supervised Learning(https://aaai.org/papers/04691-co-gcn-for-multi-view-semi-supervised-learning/)
+- Co-GCN for Multi-View Semi-Supervised Learning
+- (https://aaai.org/papers/04691-co-gcn-for-multi-view-semi-supervised-learning/)
 - Learning Deep Sparse Regularizers With Applications to Multi-View Clustering and Semi-Supervised Classification(https://ieeexplore.ieee.org/document/9439159)
-- Learnable Graph Convolutional Network and Feature Fusion(https://www.sciencedirect.com/science/article/abs/pii/S1566253523000532)
-- Interpretable Graph Convolutional Network for Multi-view Semi-supervised Learning(https://ieeexplore.ieee.org/abstract/document/10080867)
-- Joint learning of feature and topology for multi-view graph convolutional network(https://www.sciencedirect.com/science/article/abs/pii/S0893608023004987)
-- Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification(https://ieeexplore.ieee.org/document/10462517)
-- Towards Multi-view Consistent Graph Diffusion(https://dl.acm.org/doi/abs/10.1145/3664647.3681258)
+- Learnable Graph Convolutional Network and Feature Fusion
+- (https://www.sciencedirect.com/science/article/abs/pii/S1566253523000532)
+- Interpretable Graph Convolutional Network for Multi-view Semi-supervised Learning
+- (https://ieeexplore.ieee.org/abstract/document/10080867)
+- Joint learning of feature and topology for multi-view graph convolutional network
+- (https://www.sciencedirect.com/science/article/abs/pii/S0893608023004987)
+- Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification
+- (https://ieeexplore.ieee.org/document/10462517)
+- Towards Multi-view Consistent Graph Diffusion
+- (https://dl.acm.org/doi/abs/10.1145/3664647.3681258)
 # Requirements:
 Tested with 
 - 
