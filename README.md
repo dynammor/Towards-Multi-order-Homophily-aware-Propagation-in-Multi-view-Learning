@@ -18,17 +18,17 @@ Updated .....
  (https://dl.acm.org/doi/abs/10.1145/3664647.3681258)
 # Requirements:
 Tested with 
-- 
-  Python 3.9
-  torch>=1.10.0
-  scipy>=1.7.3
-  scikit-learn>=1.0.2
-  numpy>=1.21.5
-  tqdm>=4.62.3
-  argparse>=1.4.0.
-  pytorch
-  numpy scipy matplotlib pyyaml
-- 
+
+  -Python 3.9
+  -torch>=1.10.0
+  -scipy>=1.7.3
+  -scikit-learn>=1.0.2
+  -numpy>=1.21.5
+  -tqdm>=4.62.3
+  -argparse>=1.4.0.
+  -pytorch
+  -numpy scipy matplotlib pyyaml
+
 
 # Run the Code
 
