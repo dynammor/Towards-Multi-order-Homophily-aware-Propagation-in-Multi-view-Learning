@@ -40,7 +40,7 @@ python main.py --dataset dataset --lr lr --epoch epoch --train_ratio train_ratio
 
 ### Run  Baselines on animals
 
-In. `/Mv—GCN_nn_git/train.py/` the baseline model is modified in the model initialization, and the model part of the baseline model is temporarily stored in . `/MvJDR-svd/models/`.
+In. `/Mv—GCN_nn_git/train.py/` the baseline model is modified in the model initialization, and the model part of the baseline model is temporarily stored in . `/Mv—GCN_nn_git/models/`.
 Then:
 ```
 python main.py --dataset dataset --lr lr --epoch epoch --train_ratio train_ratio
@@ -52,7 +52,7 @@ python main.py --dataset dataset --lr lr --epoch epoch --train_ratio train_ratio
 
 Add your Mv-GNN to `/Mv—GCN_nn_git/models/` and adapt the model initialization in `/Mv—GCN_nn_git/main.py/` accordingly. You can then use your GNN to test the performance of our approach, e.g. on animals with
 ```
-python main.py --dataset dataset --lr lr --epoch epoch --train_ratio train_ratio
+python main.py --dataset animals --lr 0.001 --epoch 1000 --train_ratio 0.1
 ```
 
 ## ...with my own dataset
