@@ -50,7 +50,7 @@ python main.py --dataset dataset --lr lr --epoch epoch --train_ratio train_ratio
 
 ## ...with my own GNN
 
-Add your Mv-GNN to `/MvJDR-svd/models/` and adapt the model initialization in `/Mv—GCN_nn_git/main.py/` accordingly. You can then use your GNN to test the performance of our approach, e.g. on animals with
+Add your Mv-GNN to `/Mv—GCN_nn_git/models/` and adapt the model initialization in `/Mv—GCN_nn_git/main.py/` accordingly. You can then use your GNN to test the performance of our approach, e.g. on animals with
 ```
 python main.py --dataset dataset --lr lr --epoch epoch --train_ratio train_ratio
 ```
